@@ -1,0 +1,12 @@
+{
+  "summary": {
+    "title": "login",
+    "owner": "ingvar",
+    "description": "On this page you can login to the reversi game. this login consists of a username and a password"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [],
+    "reviewer": "ingvar"
+  }
+}
